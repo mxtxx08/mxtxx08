@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Mateo 👋
 
 <!--
 **mxtxx08/mxtxx08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🧑‍💻 I'm currently a robotics professor at a school.
+🤓 I'm currently studying Control Engineering; nonetheless, I'm an Electronics Technologist.
