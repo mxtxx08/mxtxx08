@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <img align="right" width = 250px height = 200px alt="Github" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a" />
 
 - 🧑‍💻 I'm currently a robotics professor at a school.
-- 🤓 I'm currently studying Control Engineering; nonetheless, I'm an Electronics Technologist.
+- 🤓 I'm student of Control Engineering; nonetheless, I'm an Electronics Technologist.
 - 👨‍💼 I’ve started studying C/C++ to create or work for an IoT/Embedded company.
 
