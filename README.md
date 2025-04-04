@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 - 🧑‍💻 I'm currently a robotics professor at a school.
 - 🤓 I'm student of Control Engineering; nonetheless, I'm an Electronics Technologist.
-- 👨‍💼 I’ve started studying C/C++ to create or work for an IoT/Embedded company.
+- 👨‍💼 I’ve started ROS2
 
